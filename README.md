@@ -1,7 +1,5 @@
 # lsi-inventaris
 
-# sigma
-
 ## Project setup
 ```
 npm install
